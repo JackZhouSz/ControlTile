@@ -97,13 +97,29 @@ We would like to express our sincere gratitude to **Manycore Tech Inc.** for pro
 
 ```bibtex
 @misc{huang2026controllabletexturetilingtransformed,
-      title={Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models}, 
-      author={Junrong Huang and Zhiyuan Zhang and Rui Tang and Hongbo Fu and Jnig Liao},
-      year={2026},
-      eprint={2606.22945},
-      archivePrefix={arXiv},
-      primaryClass={cs.GR},
-      url={https://arxiv.org/abs/2606.22945}, 
+    title={Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models}, 
+    author={Junrong Huang and Zhiyuan Zhang and Rui Tang and Hongbo Fu and Jnig Liao},
+    year={2026},
+    eprint={2606.22945},
+    archivePrefix={arXiv},
+    primaryClass={cs.GR},
+    url={https://arxiv.org/abs/2606.22945}, 
+}
+
+@inproceedings{10.1145/3799902.3811172,
+    author = {Huang, Junrong and Zhang, Zhiyuan and Tang, Rui and Fu, Hongbo and Liao, Jing},
+    title = {Controllable Texture Tiling via Diffusion Transformers with Transformed Rotary Embeddings},
+    year = {2026},
+    isbn = {9798400725548},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3799902.3811172},
+    doi = {10.1145/3799902.3811172},
+    booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+    articleno = {77},
+    numpages = {11},
+    keywords = {Texture Tiling, Diffusion Transformers, Image Inpainting, Generative Image Editing, Reference-guided Generation},
+    series = {SIGGRAPH Conference Papers '26}
 }
 ```
 
