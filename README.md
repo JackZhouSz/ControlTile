@@ -21,7 +21,9 @@
   </a>
   </p>
 
-  <h2 align="center">SIGGRAPH 2026 (Conference)</h2>
+
+
+  <h2 align="center"><a href="https://dl.acm.org/doi/10.1145/3799902.3811172">SIGGRAPH 2026 (Conference)</a></h2>
   <div align="center">
     <img src="assets/teaser.jpg", width="80%">
   </div>
