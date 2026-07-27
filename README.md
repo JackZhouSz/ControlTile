@@ -49,7 +49,7 @@ Our dataset can be downloaded [here](https://modelscope.cn/datasets/heika94/ctil
 
 We also uploaded the baseline dataset [here](https://modelscope.cn/datasets/heika94/ctile-baseline), you can also store it in `dataset` folder.
 
-The pretrained modelscanbe downloaded [here](https://modelscope.cn/models/heika94/control-tile/resolve/master/model-lora.ckpt) and stored in `ckpt` folder.
+The pretrained [models](https://modelscope.cn/models/heika94/control-tile/summary) can be downloaded [here](https://modelscope.cn/models/heika94/control-tile/resolve/master/model-lora.ckpt) and stored in `ckpt` folder.
 
 After running the setup script and placing the dataset and checkpoints in the correct location, the directory structure should look like this:
 
